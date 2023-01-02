@@ -1,0 +1,146 @@
+{
+  "languages": [
+    {
+      "value": 1,
+      "text": "Java"
+    },
+    {
+      "value": 2,
+      "text": "Python"
+    },
+    {
+      "value": 3,
+      "text": "C++"
+    },
+    {
+      "value": 4,
+      "text": "C#"
+    },
+    {
+      "value": 5,
+      "text": "JavaScript"
+    },
+    {
+      "value": 6,
+      "text": "Go"
+    },
+    {
+      "value": 7,
+      "text": "PHP"
+    },
+    {
+      "value": 8,
+      "text": "Ruby"
+    },
+    {
+      "value": 9,
+      "text": "Perl"
+    },
+    {
+      "value": 10,
+      "text": "Swift"
+    }
+  ],
+  "frameworks": [
+    {
+      "id": 1,
+      "frameworks": [
+        "Spring",
+        "Hibernate",
+        "JavaEE",
+        "Play",
+        "Grails"
+      ]
+    },
+    {
+      "id": 2,
+      "frameworks": [
+        "Django",
+        "Flask",
+        "Pyramid",
+        "Web2py",
+        "Turbogears"
+      ]
+    },
+    {
+      "id": 3,
+      "frameworks": [
+        "Qt",
+        "WxWidgets",
+        "Boost",
+        "C++ Standard Library",
+        "STL"
+      ]
+    },
+    {
+      "id": 4,
+      "frameworks": [
+        "ASP.NET",
+        "Entity Framework",
+        "Xamarin",
+        "Mono",
+        "NancyFX"
+      ]
+    },
+    {
+      "id": 5,
+      "frameworks": [
+        "Express",
+        "React",
+        "Vue.js",
+        "AngularJS",
+        "Ember.js"
+      ]
+    },
+    {
+      "id": 6,
+      "frameworks": [
+        "Echo",
+        "Gin",
+        "Revel",
+        "Buffalo",
+        "Iris"
+      ]
+    },
+    {
+      "id": 7,
+      "frameworks": [
+        "Laravel",
+        "Symfony",
+        "CodeIgniter",
+        "Zend Framework",
+        "Yii"
+      ]
+    },
+    {
+      "id": 8,
+      "frameworks": [
+        "Rails",
+        "Sinatra",
+        "Hanami",
+        "Cuba",
+        "Padrino"
+      ]
+    },
+    {
+      "id": 9,
+      "frameworks": [
+        "CGI",
+        "Mojolicious",
+        "Dancer",
+        "Catalyst",
+        "Jifty"
+      ]
+    },
+    {
+      "id": 10,
+      "frameworks": [
+        "Kitura",
+        "Perfect",
+        "Vapor",
+        "Zewo",
+        "Flask-Ask"
+      ]
+    }
+  ]
+}
